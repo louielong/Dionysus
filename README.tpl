@@ -75,5 +75,9 @@ done
 ```
 
 [Changelog](./CHANGES.md)
+
+
+[Ref]
+1)[anjia blog](https://anjia0532.github.io/2017/11/15/gcr-io-image-mirror/)
 -------
 
